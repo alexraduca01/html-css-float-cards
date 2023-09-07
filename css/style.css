@@ -46,7 +46,7 @@ main {
 .box {
     float: left;
     width: calc(100% / 3 - 40px);
-    margin: 20px 20px;
+    margin: 20px;
     box-shadow: 0px 0px 10px #aaaaaa;
 }
 img {
