@@ -30,7 +30,7 @@
 }
 body {
     font-family: 'Fredoka', sans-serif;
-    width: 1200px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 header {
